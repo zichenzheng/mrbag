@@ -3,77 +3,77 @@
     {
       "size" : "29x29",
       "idiom" : "iphone",
-      "filename" : "58x58.png",
+      "filename" : "1-2.png",
       "scale" : "2x"
     },
     {
       "size" : "29x29",
       "idiom" : "iphone",
-      "filename" : "87x87.png",
+      "filename" : "1-1.png",
       "scale" : "3x"
     },
     {
       "size" : "60x45",
       "idiom" : "iphone",
-      "filename" : "120x90.png",
+      "filename" : "屏幕快照 2016-10-17 下午9.35.14-1.png",
       "scale" : "2x"
     },
     {
       "size" : "60x45",
       "idiom" : "iphone",
-      "filename" : "180x135.png",
+      "filename" : "屏幕快照 2016-10-17 下午9.35.14.png",
       "scale" : "3x"
     },
     {
       "size" : "29x29",
       "idiom" : "ipad",
-      "filename" : "58x58-1.png",
+      "filename" : "1-3.png",
       "scale" : "2x"
     },
     {
       "size" : "67x50",
       "idiom" : "ipad",
-      "filename" : "134x100.png",
+      "filename" : "屏幕快照 2016-10-17 下午9.35.14-3.png",
       "scale" : "2x"
     },
     {
       "size" : "74x55",
       "idiom" : "ipad",
-      "filename" : "148x110.png",
+      "filename" : "屏幕快照 2016-10-17 下午9.35.14-2.png",
       "scale" : "2x"
     },
     {
       "size" : "27x20",
       "idiom" : "universal",
-      "filename" : "27x20.png",
+      "filename" : "屏幕快照 2016-10-17 下午9.39.11-1.png",
       "scale" : "2x",
       "platform" : "ios"
     },
     {
       "size" : "27x20",
       "idiom" : "universal",
-      "filename" : "81x60.png",
+      "filename" : "屏幕快照 2016-10-17 下午9.39.11.png",
       "scale" : "3x",
       "platform" : "ios"
     },
     {
       "size" : "32x24",
       "idiom" : "universal",
-      "filename" : "64x48-1.png",
+      "filename" : "屏幕快照 2016-10-17 下午9.37.50-1.png",
       "scale" : "2x",
       "platform" : "ios"
     },
     {
       "size" : "32x24",
       "idiom" : "universal",
-      "filename" : "96x72.png",
+      "filename" : "屏幕快照 2016-10-17 下午9.37.50.png",
       "scale" : "3x",
       "platform" : "ios"
     },
     {
       "size" : "1024x768",
       "idiom" : "ios-marketing",
-      "filename" : "Stricker Logo.png",
+      "filename" : "屏幕快照 2016-10-17 下午9.46.53.png",
       "scale" : "1x",
       "platform" : "ios"
     }
